@@ -6,7 +6,7 @@ export default function PricingPage() {
         <div className="p-6 border rounded-lg text-center">
           <h2 className="text-2xl font-semibold mb-4">Basic</h2>
           <p className="text-4xl font-bold mb-4">
-            $9.99<span className="text-lg">/mo</span>
+            $18.99<span className="text-lg">/mo</span>
           </p>
           <ul className="text-left space-y-2 mb-6">
             <li>✓ Basic Features</li>
@@ -20,7 +20,7 @@ export default function PricingPage() {
         <div className="p-6 border rounded-lg text-center bg-black text-white">
           <h2 className="text-2xl font-semibold mb-4">Pro</h2>
           <p className="text-4xl font-bold mb-4">
-            $19.99<span className="text-lg">/mo</span>
+            $28.99<span className="text-lg">/mo</span>
           </p>
           <ul className="text-left space-y-2 mb-6">
             <li>✓ All Basic Features</li>
@@ -34,7 +34,7 @@ export default function PricingPage() {
         <div className="p-6 border rounded-lg text-center">
           <h2 className="text-2xl font-semibold mb-4">Enterprise</h2>
           <p className="text-4xl font-bold mb-4">
-            $49.99<span className="text-lg">/mo</span>
+            $58.99<span className="text-lg">/mo</span>
           </p>
           <ul className="text-left space-y-2 mb-6">
             <li>✓ All Pro Features</li>
